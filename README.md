@@ -52,3 +52,9 @@ Para isso serão utilizados os dados do Portal de Transparência Municipal do TC
 
 Em `dados` ficam os dados disponiveis originais, e em `saida` ficam os dados modificados e/ou gerados.
 
+## Colaboradores
+ - [Alan Taranti](https://github.com/AlanTaranti)
+ - Antônio Carlos
+ - [Natan Falbo](https://github.com/d44t)
+ - [Renato Canegusuco](https://github.com/canegusuco)
+ 
